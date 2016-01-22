@@ -1,6 +1,6 @@
 FOO
 ===
-
+trigger 1
 
 Build
 =====
