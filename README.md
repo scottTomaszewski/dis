@@ -1,6 +1,6 @@
 FOO
 ===
-trigger 9
+trigger 10
 
 Build
 =====
